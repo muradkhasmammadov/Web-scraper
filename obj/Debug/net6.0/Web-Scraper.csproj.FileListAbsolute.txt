@@ -1,0 +1,17 @@
+C:\Users\Murad\Desktop\C#Tutorials\Web-scraper\Web-Scraper\bin\Debug\net6.0\Web-Scraper.exe
+C:\Users\Murad\Desktop\C#Tutorials\Web-scraper\Web-Scraper\bin\Debug\net6.0\Web-Scraper.deps.json
+C:\Users\Murad\Desktop\C#Tutorials\Web-scraper\Web-Scraper\bin\Debug\net6.0\Web-Scraper.runtimeconfig.json
+C:\Users\Murad\Desktop\C#Tutorials\Web-scraper\Web-Scraper\bin\Debug\net6.0\Web-Scraper.dll
+C:\Users\Murad\Desktop\C#Tutorials\Web-scraper\Web-Scraper\bin\Debug\net6.0\Web-Scraper.pdb
+C:\Users\Murad\Desktop\C#Tutorials\Web-scraper\Web-Scraper\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\Murad\Desktop\C#Tutorials\Web-scraper\Web-Scraper\obj\Debug\net6.0\Web-Scraper.csproj.AssemblyReference.cache
+C:\Users\Murad\Desktop\C#Tutorials\Web-scraper\Web-Scraper\obj\Debug\net6.0\Web-Scraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\C#Tutorials\Web-scraper\Web-Scraper\obj\Debug\net6.0\Web-Scraper.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\C#Tutorials\Web-scraper\Web-Scraper\obj\Debug\net6.0\Web-Scraper.AssemblyInfo.cs
+C:\Users\Murad\Desktop\C#Tutorials\Web-scraper\Web-Scraper\obj\Debug\net6.0\Web-Scraper.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\C#Tutorials\Web-scraper\Web-Scraper\obj\Debug\net6.0\Web-Scraper.csproj.CopyComplete
+C:\Users\Murad\Desktop\C#Tutorials\Web-scraper\Web-Scraper\obj\Debug\net6.0\Web-Scraper.dll
+C:\Users\Murad\Desktop\C#Tutorials\Web-scraper\Web-Scraper\obj\Debug\net6.0\refint\Web-Scraper.dll
+C:\Users\Murad\Desktop\C#Tutorials\Web-scraper\Web-Scraper\obj\Debug\net6.0\Web-Scraper.pdb
+C:\Users\Murad\Desktop\C#Tutorials\Web-scraper\Web-Scraper\obj\Debug\net6.0\Web-Scraper.genruntimeconfig.cache
+C:\Users\Murad\Desktop\C#Tutorials\Web-scraper\Web-Scraper\obj\Debug\net6.0\ref\Web-Scraper.dll

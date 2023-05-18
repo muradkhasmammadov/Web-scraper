@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4cKgwfutuHnTorOs9moGlOFZz3YxW0vZbAst4OG2fYmQ2r7e+OLkixa6WyH7uDUAT616rYP43r2AyMf+Y+9G2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Murad\\Desktop\\C#Tutorials\\Web-scraper\\Web-Scraper\\Web-Scraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murad\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
